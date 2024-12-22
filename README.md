@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineering Leader & Developer
 
-With a passion for building high-performing teams and delivering impactful software solutions, I've been in the professional development space since 2017. Since 2020, I've been leading engineering teams in high-growth startups, focusing on delivering complex software solutions while fostering a culture of technical excellence.
+Software professional since 2017, evolved into engineering leadership in high-growth startups since 2020. Specializing in distributed systems, local-first collaborative applications, and high-performance frontend architectures.
 
 #### 💫 Professional Journey
 - 🚀 Engineering Leader with experience in scaling teams and systems
@@ -16,8 +16,4 @@ With a passion for building high-performing teams and delivering impactful softw
 - 🤝 Team Leadership & Mentoring
 - 📈 Scaling Engineering Processes
 - 🔄 agile Development Practices, without the capital A
-
----
-
-Special interest in local-first, collaborative web applications!
 

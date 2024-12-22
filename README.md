@@ -10,3 +10,8 @@ Software professional since 2017, evolved into engineering leadership in high-gr
 - 🎯 Established engineering practices across distributed teams
 - 💻 Balanced innovation with reliable delivery in fast-paced environments
 - 🔄 Cultivated lean, pragmatic development workflows that prioritise shipping over ceremony
+
+💡 Technical Interests
+- 🦀 Comfortable in TypeScript and Clojure, attempting to learn Rust.
+- 🔄 Special interest in collaborative, local-first applications
+- 📱 Perpetually tinkering with probably useless side projects, I just like building things

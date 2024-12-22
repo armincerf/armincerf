@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**armincerf/armincerf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a Software Engineering Leader & Developer
 
-Here are some ideas to get you started:
+With a passion for building high-performing teams and delivering impactful software solutions, I've been in the professional development space since 2017. Since 2020, I've been leading engineering teams in high-growth startups, focusing on delivering complex software solutions while fostering a culture of technical excellence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💫 Professional Journey
+- 🚀 Engineering Leader with experience in scaling teams and systems
+- 💻 Professional developer since 2017
+- 👥 Leading high-performing engineering teams since 2020
+- 🎯 Specialized in delivering complex software in fast-paced startup environments
+- 🤝 Track record of hiring and retaining exceptional engineering talent
+
+#### 🛠️ Technical Expertise
+- 💡 Architecture & System Design
+- 🤝 Team Leadership & Mentoring
+- 📈 Scaling Engineering Processes
+- 🔄 agile Development Practices, without the capital A
+
+---
+
+Special interest in local-first, collaborative web applications!
+

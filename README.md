@@ -2,18 +2,11 @@
 
 ### I'm a Software Engineering Leader & Developer
 
-Software professional since 2017, evolved into engineering leadership in high-growth startups since 2020. Specializing in distributed systems, local-first collaborative applications, and high-performance frontend architectures.
+Software professional since 2017, evolved into engineering leadership in high-growth startups since 2020. Specialising in distributed systems, local-first collaborative applications, and high-performance frontend architectures.
 
-#### 💫 Professional Journey
-- 🚀 Engineering Leader with experience in scaling teams and systems
-- 💻 Professional developer since 2017
-- 👥 Leading high-performing engineering teams since 2020
-- 🎯 Specialized in delivering complex software in fast-paced startup environments
-- 🤝 Track record of hiring and retaining exceptional engineering talent
-
-#### 🛠️ Technical Expertise
-- 💡 Architecture & System Design
-- 🤝 Team Leadership & Mentoring
-- 📈 Scaling Engineering Processes
-- 🔄 agile Development Practices, without the capital A
-
+🛠️ Leadership & Impact
+🚀 Scaled multi-million dollar projects from concept to funded ventures, building and transitioning high-performing teams
+💡 Built and scaled engineering teams from prototype to production
+🎯 Established engineering practices across distributed teams
+💻 Balanced innovation with reliable delivery in fast-paced environments
+🔄 Cultivated lean, pragmatic development workflows that prioritise shipping over ceremony

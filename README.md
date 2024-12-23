@@ -1,23 +1,20 @@
 ## Hi there 👋
 
-### I'm a Software Engineering Leader & Developer
+I'm a **Software Engineering Leader & Developer** with experience in high-growth startups since 2017. I specialize in distributed systems, local-first collaborative applications, and high-performance frontend architectures.
 
-Software professional since 2017, evolved into engineering leadership in high-growth startups since 2021. Specialising in distributed systems, local-first collaborative applications, and high-performance frontend architectures.
+### Leadership & Impact
+- 🎯 Scaled multi-million-dollar products from concept to funded ventures, building and leading high-performing teams
+- ⚡️ Established engineering best practices for distributed teams, balancing innovation with reliable delivery
+- 🔄 Implemented lean, pragmatic development workflows focused on shipping over ceremony
 
-🛠️ Leadership & Impact
-- 🚀 Scaled multi-million dollar projects from concept to funded ventures, building and transitioning high-performing teams
-- 💡 Built and scaled engineering teams from prototype to production
-- 🎯 Established engineering practices across distributed teams
-- 💻 Balanced innovation with reliable delivery in fast-paced environments
-- 🔄 Cultivated lean, pragmatic development workflows that prioritise shipping over ceremony
-
-💡 Technical Interests
-- 🦀 Comfortable in TypeScript and Clojure, attempting to learn Rust.
-- 🔄 Special interest in collaborative, local-first applications
-- 📱 Perpetually tinkering with probably useless side projects, I just like building things
+### Technical Interests
+- 🛠️ Proficient in TypeScript and Clojure, learning Rust
+- 🔗 Enthusiastic about collaborative, local-first applications
+- 🎨 Always experimenting with side projects to explore new ideas
 
 🏃‍♂️ Beyond the Keyboard
 - 🏊‍♂️ Completed multiple endurance events including an Ironman triathlon, marathons, and bike races
 - 🏓 Competitive table tennis player
 - 🎵 Play several instruments, but none of them particularly well
 - 🗣️ Conversationalish in Japanese (話すの読むのちょっとできるけど書くのムリ～)
+- 📈📊🚀🔥🤖 Mega🎉 Ultra💥 Emoji📢 Grandmaster™:🏆 Leveraging⚡ high-density,⚙️ cross-functional💎 emoji🚀 synergy🧩 to🔑 ensure🥇 a✨ 10x🤯 engagement📈 boost🚁 and🐱 a🚨 200%🚀 improvement🦾 in📊 overall🥳 emoji-to-text🤖 ratio🔥 YOY🎉

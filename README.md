@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Software Engineering Leader & Developer** with experience in high-growth startups since 2017. I specialize in distributed systems, local-first collaborative applications, and high-performance frontend architectures.
+I'm a **Software Engineering Leader & Developer** with experience in high-growth startups since 2017. I specialise in distributed systems, local-first collaborative applications, and building high performing dev teams in fast growing startups.
 
 ### Leadership & Impact
 - 🎯 Scaled multi-million-dollar products from concept to funded ventures, building and leading high-performing teams

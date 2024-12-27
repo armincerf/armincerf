@@ -17,4 +17,3 @@ I'm a **Software Engineering Leader & Developer** with experience in high-growth
 - 🏓 Competitive table tennis player
 - 🎵 Play several instruments, but none of them particularly well
 - 🗣️ Conversationalish in Japanese (話すの読むのちょっとできるけど書くのムリ～)
-- 📈📊🚀🔥🤖 Mega🎉 Ultra💥 Emoji📢 Grandmaster™:🏆 Leveraging⚡ high-density,⚙️ cross-functional💎 emoji🚀 synergy🧩 to🔑 ensure🥇 a✨ 10x🤯 engagement📈 boost🚁 and🐱 a🚨 200%🚀 improvement🦾 in📊 overall🥳 emoji-to-text🤖 ratio🔥 YOY🎉
